@@ -4,8 +4,8 @@ A MERN stack web application where users register, log in and record their daily
 
 Capstone project for the ICTAK Full Stack Development course.
 
-- **Live site:** [add hosted project link]
-- **API health check:** [add API URL]/api/health
+- **Live site:** https://expense-tracker-mern-rose.vercel.app
+- **API health check:** https://expense-tracker-api-tacj.onrender.com/api/health
 
 ## Features
 
